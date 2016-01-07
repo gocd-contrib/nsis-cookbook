@@ -1,6 +1,6 @@
 yum_repository 'nsis' do
   description "NSIS RPM Repository"
-  baseurl     "http://www.go.cd/nsis-rpm/"
+  baseurl     "https://www.go.cd/nsis-rpm/"
   gpgcheck    false
   action      :create
 end
