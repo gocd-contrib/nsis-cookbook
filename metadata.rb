@@ -1,10 +1,10 @@
 name             'nsis'
 maintainer       'Ketan Padegaonkar'
 maintainer_email 'ketanpadegaonkar@gmail.com'
-license          'MIT'
+license          'Apache v2.0'
 description      'Installs/Configures NSIS'
 long_description  IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.1.0'
+version          '0.2.0'
 
 depends 'yum'
 
