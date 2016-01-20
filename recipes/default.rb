@@ -8,7 +8,7 @@ end
 package 'mingw32-nsis' do
   if node['nsis']['version'] == 'latest'
     action :upgrade
-  else if node['nsis']['version']
+  elsif node['nsis']['version']
     version node['nsis']['version']
   end
 end
