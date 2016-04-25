@@ -3,6 +3,11 @@ NSIS CHANGELOG
 
 This file is used to list changes made in each version of the NSIS cookbook.
 
+v0.4.0 (2016-04-25)
+-------------------
+
+* Update the repository URL
+
 v0.3.0 (2016-01-20)
 -------------------
 
